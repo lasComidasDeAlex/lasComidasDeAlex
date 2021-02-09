@@ -206,7 +206,7 @@ h4 {
 
 footer {
   display: flex;
-  justify-content: space-around;
+  justify-content: center;
   width: 100%;
   height: auto;
   align-items: center;
@@ -223,6 +223,8 @@ button {
   border: none;
   cursor: pointer;
   padding: 10px;
+  margin-right: 110px;
+
 }
 
 .icoFooter img {
@@ -240,6 +242,9 @@ button {
   cursor: pointer;
   position: relative;
   top: -20px;
+  margin-right: 110px;
+
+
 }
 
 .icoSend img {
